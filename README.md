@@ -19,18 +19,11 @@ python train_fm.py --data_name yelp_data
 If you use our datasets or codes, please cite our paper.
 ```
 @inproceedings{RMS-HRec,
-  author    = {Wentao Ning and
-               Reynold Cheng and
-               Jiajun Shen and
-               Nur Al Hasan Haldar and
-               Ben Kao and
-               Xiao Yan and
-               Nan Huo and
-               Wai Kit Lam and
-               Tian Li and
-               Bo Tang},
-  title     = {Automatic Meta-Path Discovery for Effective Graph-Based Recommendation},
-  booktitle = {CIKM},
-  year      = {2022}
+author = {Ning, Wentao and Cheng, Reynold and Shen, Jiajun and Haldar, Nur Al Hasan and Kao, Ben and Yan, Xiao and Huo, Nan and Lam, Wai Kit and Li, Tian and Tang, Bo},
+title = {Automatic Meta-Path Discovery for Effective Graph-Based Recommendation},
+year = {2022},
+publisher = {ACM},
+booktitle = {CIKM},
+pages = {1563–1572}
 }
 ```
